@@ -1,0 +1,1 @@
+{"uuid":"e602c5a8-683d-4faf-8753-50c6b17839f5","name":"TestCases.TC62_AmendTheInwardBillWhichIsLodge","children":["09606bc1-c2b8-4cc7-adbd-d783e3769c41"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1772703921640,"stop":1772703921861}],"afters":[],"start":1772703907692,"stop":1772703923861}

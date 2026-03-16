@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd">
+
+<suite name="Suite">
+
+    <listeners>
+        <listener class-name="Utilities.TestReportListener"/>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+
+    <test name="MIIBTests">
+
+        <classes>
+            <class name="TestCases.TC59_InwardLodgeBill"/>
+            <class name="TestCases.TC60_ModifyTheLodgeBillWhichIscreated"/>
+            <class name="TestCases.TC61_CanceltheModifiedInwardBill"/>
+            <class name="TestCases.TC62_AmendTheInwardBillWhichIsLodge"/>
+            <class name="TestCases.TC63_DishonorOfInwardBillWhichIsAmended"/>
+            <class name="TestCases.TC64_InquireTheInwardBill"/>
+            <class name="TestCases.TC65_ProtestTheInwardBillWhichIsDishonoured"/>
+        </classes>
+
+    </test>
+
+</suite>

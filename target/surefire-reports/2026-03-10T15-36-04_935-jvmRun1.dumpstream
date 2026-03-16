@@ -1,0 +1,3 @@
+# Created at 2026-03-10T15:36:06.003
+java.lang.NullPointerException: Cannot invoke "org.testng.xml.XmlTest.setXmlClasses(java.util.List)" because "this.m_currentTest" is null
+

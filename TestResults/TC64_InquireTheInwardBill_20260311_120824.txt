@@ -1,0 +1,1 @@
+[2026-03-11 12:09:10] ? Assertion Failure: Exception occurred: Expected condition failed: waiting for presence of element located by: By.xpath: //td[contains(normalize-space(text()),'Bill Type')]/following-sibling::td[@class='textfielddisplaylabel'] (tried for 10 second(s) with 500 milliseconds interval)

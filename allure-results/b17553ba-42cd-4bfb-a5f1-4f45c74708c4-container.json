@@ -1,0 +1,1 @@
+{"uuid":"b17553ba-42cd-4bfb-a5f1-4f45c74708c4","name":"TestCases.TC61_CanceltheModifiedInwardBill","children":["2325dde8-256f-4314-a927-a517123ee8cd"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1772692177730,"stop":1772692178120}],"afters":[],"start":1772692155553,"stop":1772692182190}

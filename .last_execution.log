@@ -1,0 +1,61 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------------< MIIB:MIIB >------------------------------
+[INFO] Building MIIB 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ MIIB ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.8.1:compile (default-compile) @ MIIB ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ MIIB ---
+[INFO] skip non existing resourceDirectory C:\Finacle_1\ImportAndInwardBills\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.8.1:testCompile (default-testCompile) @ MIIB ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ MIIB ---
+[INFO] Using auto detected provider org.apache.maven.surefire.testng.TestNGProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running TestSuite
+ERROR: [main] WARN org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+ERROR: [main] WARN org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+ERROR: [main] WARN org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+? Browser received from Maven: edge
+? Browser received from Maven: edge
+? Browser received from Maven: edge
+? Browser received from Maven: edge
+? Execution Mode: normal
+? Execution Mode: normal
+? Execution Mode: normal
+? Execution Mode: normal
+ERROR: [TestNG-test-MIIBTests-2] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 145.0.3800.97 (resolved driver for Edge 145)
+ERROR: [TestNG-test-MIIBTests-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 145.0.3800.97 (resolved driver for Edge 145)
+ERROR: [TestNG-test-MIIBTests-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 145.0.3800.97 (resolved driver for Edge 145)
+ERROR: [TestNG-test-MIIBTests-4] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 145.0.3800.97 (resolved driver for Edge 145)
+? Starting Edge NORMAL
+? Starting Edge NORMAL
+? Starting Edge NORMAL
+? Starting Edge NORMAL
+ERROR: [TestNG-test-MIIBTests-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\chris\.cache\selenium\msedgedriver\win64\145.0.3800.97\msedgedriver.exe
+ERROR: [TestNG-test-MIIBTests-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\chris\.cache\selenium\msedgedriver\win64\145.0.3800.97\msedgedriver.exe
+ERROR: [TestNG-test-MIIBTests-2] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\chris\.cache\selenium\msedgedriver\win64\145.0.3800.97\msedgedriver.exe
+ERROR: [TestNG-test-MIIBTests-4] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\chris\.cache\selenium\msedgedriver\win64\145.0.3800.97\msedgedriver.exe
+ERROR: Mar 10, 2026 10:12:32 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ERROR: WARNING: Unable to find an exact match for CDP version 145, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 145
+ERROR: Mar 10, 2026 10:12:32 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ERROR: WARNING: Unable to find an exact match for CDP version 145, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 145
+ERROR: Mar 10, 2026 10:12:33 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ERROR: WARNING: Unable to find an exact match for CDP version 145, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 145
+ERROR: Mar 10, 2026 10:12:34 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ERROR: WARNING: Unable to find an exact match for CDP version 145, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 145
+? WebDriver initialized for thread: 29
+? WebDriver initialized for thread: 26
+? WebDriver initialized for thread: 28
+? WebDriver initialized for thread: 27

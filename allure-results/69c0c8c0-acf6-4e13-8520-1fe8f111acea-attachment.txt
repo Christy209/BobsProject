@@ -1,0 +1,2 @@
+[2026-03-13 15:10:32] ? Login Failed: User is already logged in.
+[2026-03-13 15:10:32] ? Assertion Failure: Finacle Login Error: User is already logged in.

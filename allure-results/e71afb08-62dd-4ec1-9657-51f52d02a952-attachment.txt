@@ -1,0 +1,2 @@
+[2026-03-11 12:11:31] ? Error: E4221 - Liablity Exists, Recovery Event should be performed before Protest.
+[2026-03-11 12:11:31] ? Assertion Failure: Test failed: E4221 - Liablity Exists, Recovery Event should be performed before Protest.
