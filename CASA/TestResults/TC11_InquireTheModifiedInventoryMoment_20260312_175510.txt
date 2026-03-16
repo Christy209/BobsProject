@@ -1,8 +1,0 @@
-[2026-03-12 17:56:03] ✅ AppData captured at inquiry time:
-[2026-03-12 17:56:03] invtEndSrlNum = 205567
-[2026-03-12 17:56:03] Tran_id = null
-[2026-03-12 17:56:03] invtClass = CHQ
-[2026-03-12 17:56:03] invtType = SB
-[2026-03-12 17:56:03] invtBeginSrlNum = 203355
-[2026-03-12 17:56:03] LabelText = Inquired Successfully – Documentary Credit No: null
-[2026-03-12 17:56:03] invtSrlAlpha = RAB

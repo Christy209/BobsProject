@@ -1,2 +1,0 @@
-[2026-03-12 17:52:20] Transaction ID \<4147 \/ 15-03-2025\> added successfully.
-[2026-03-12 17:53:14] Transaction ID \<4147 \/ 15-03-2025\> - Authorizations pending.

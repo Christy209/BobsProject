@@ -1,2 +1,0 @@
-[2026-03-13 16:29:42] Selected cheque books issued successfully to A/c. ID. - 003000500000645
-[2026-03-13 16:31:22] Cheque Book Issue for A/c. ID 003000500000645 verified successfully.

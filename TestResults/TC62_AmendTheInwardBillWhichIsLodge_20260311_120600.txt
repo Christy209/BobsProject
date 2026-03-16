@@ -1,5 +1,0 @@
-[2026-03-11 12:07:22] errorMsg = C22 - The previous process is not yet verified.
-[2026-03-11 12:07:22] LabelText: null
-[2026-03-11 12:07:22] BillID: null
-[2026-03-11 12:07:22] ? Error: C22 - The previous process is not yet verified.
-[2026-03-11 12:07:22] ? Assertion Failure: Test failed: C22 - The previous process is not yet verified.

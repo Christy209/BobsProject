@@ -1,2 +1,0 @@
-[2026-03-13 16:33:03] Selected cheque books issued successfully to A/c. ID. - 003000500000645
-[2026-03-13 16:34:45] Cheque Book Issue for A/c. ID 003000500000645 Cancelled successfully.

@@ -1,9 +1,0 @@
-[2026-03-12 18:29:46] ✅ AppData captured at inquiry time:
-[2026-03-12 18:29:46] TransactionMessage = Inquired Successfully – TRAN_ID: M4414
-[2026-03-12 18:29:46] refAmt = 500.00
-[2026-03-12 18:29:46] acctId = 003120100000368
-[2026-03-12 18:29:46] arrDenomCount_leg1 = 2
-[2026-03-12 18:29:46] tranParticularsCode = IGST
-[2026-03-12 18:29:46] refCrncy = INR
-[2026-03-12 18:29:46] tranParticular = TESTING
-[2026-03-12 18:29:46] TRAN_ID = M4414

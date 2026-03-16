@@ -1,1 +1,0 @@
-{"uuid":"a88349f8-b286-4a45-9366-e2f2ef4abe80","name":"TestCases.TC12_CancelTheInventoryWhichIsAdded","children":["0e0a9864-56d8-45c1-910d-de2e78a5e493"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1773400404872,"stop":1773400405204}],"afters":[],"start":1773399153737,"stop":1773402440379}
