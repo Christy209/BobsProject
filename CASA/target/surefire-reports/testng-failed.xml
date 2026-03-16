@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" verbose="0">
+  <listeners>
+    <listener class-name="Utilities.TestReportListener"/>
+    <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+  </listeners>
+  <test thread-count="5" name="FuntionalityTest(failed)" verbose="0">
+    <classes>
+      <class name="TestCases.TC43_DoCashWithdrawalFromCreatedSavingsAccount">
+        <methods>
+          <include name="runTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.TC43_DoCashWithdrawalFromCreatedSavingsAccount -->
+      <class name="TestCases.TC39_DoCashDepositForCreatedCashCreditAccount">
+        <methods>
+          <include name="runTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.TC39_DoCashDepositForCreatedCashCreditAccount -->
+      <class name="TestCases.TC45_DoCashWithdrawalForCreatedCashCreditAccount">
+        <methods>
+          <include name="runTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.TC45_DoCashWithdrawalForCreatedCashCreditAccount -->
+      <class name="TestCases.TC57_ModifyingTheCreatedCurrentAccountAndVerifying">
+        <methods>
+          <include name="runTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.TC57_ModifyingTheCreatedCurrentAccountAndVerifying -->
+      <class name="TestCases.TC56_CreatingCurrentAccountAndVerificationOfCurrent">
+        <methods>
+          <include name="setup"/>
+          <include name="runTest"/>
+        </methods>
+      </class> <!-- TestCases.TC56_CreatingCurrentAccountAndVerificationOfCurrent -->
+      <class name="TestCases.TC40_DoCashDepositForCreatedOverdraftAccount">
+        <methods>
+          <include name="runTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.TC40_DoCashDepositForCreatedOverdraftAccount -->
+      <class name="TestCases.TC25_DeletetheAddedTransactionAsCashNormalPayment">
+        <methods>
+          <include name="runTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.TC25_DeletetheAddedTransactionAsCashNormalPayment -->
+    </classes>
+  </test> <!-- FuntionalityTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
