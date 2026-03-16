@@ -1,0 +1,1 @@
+{"uuid":"05e62923-4ee1-4f50-83b0-f7e239755724","name":"TestCases.TC13_CancelTheInventoryWhichIsVerified","children":["76575695-b8d9-4646-8a15-2e5fe583fd30"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1773400607340,"stop":1773400607581}],"afters":[],"start":1773399153738,"stop":1773402440384}

@@ -1,0 +1,2 @@
+[2026-03-12 18:14:40] ⚠️ Error Received: E4698 - This transaction [15-03-2025 00:00:00/ M4408] has Posted part transaction.
+[2026-03-12 18:14:40] ✅ Expected business error E4698. Test PASSED.

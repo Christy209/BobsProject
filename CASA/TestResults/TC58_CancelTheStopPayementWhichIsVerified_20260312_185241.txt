@@ -1,0 +1,2 @@
+[2026-03-12 18:53:09] ⚠️ Received Error: The record is not found for [SPT].
+[2026-03-12 18:53:09] ❌ Unexpected error received: The record is not found for [SPT].

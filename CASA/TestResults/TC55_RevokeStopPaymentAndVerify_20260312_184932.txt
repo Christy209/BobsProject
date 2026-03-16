@@ -1,0 +1,2 @@
+[2026-03-12 18:50:05] ❌ Error: 005 - The record is not found.
+[2026-03-12 18:50:05] ❌ Assertion Failure: Test failed: 005 - The record is not found.

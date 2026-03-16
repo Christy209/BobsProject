@@ -1,0 +1,2 @@
+[2026-03-12 18:49:30] ❌ Error: E4043 - The cheque book is not issued to the entered account.
+[2026-03-12 18:49:30] ❌ Assertion Failure: Test failed: E4043 - The cheque book is not issued to the entered account.

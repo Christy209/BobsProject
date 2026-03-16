@@ -1,0 +1,9 @@
+[2026-03-13 15:44:33] ? Exception Occurred: unexpected alert open: {Alert text : Are you sure you want to logout?}
+  (Session info: MicrosoftEdge=145.0.3800.97): Are you sure you want to logout?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [118ea57911bd16d63c3e0f19cea0beb8, isElementDisplayed {id=f.294AA3E1D88EFFFEC2FC4E8B8C22887B.d.C90553C7A86ECFFFC9286EE66BAAD242.e.91}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 145.0.3800.97, fedcm:accounts: true, goog:processID: 24812, ms:edgeOptions: {debuggerAddress: localhost:61146}, msedge: {msedgedriverVersion: 145.0.3800.97 (f4c49d5241f1..., userDataDir: C:\Users\chris\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61146/devtoo..., se:cdpVersion: 145.0.3800.97, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (118ea57911bd16d63c3e0f19cea0beb8)] -> id: templateFunction]
+Session ID: 118ea57911bd16d63c3e0f19cea0beb8
