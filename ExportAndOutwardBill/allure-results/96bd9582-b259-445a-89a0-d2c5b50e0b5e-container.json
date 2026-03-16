@@ -1,0 +1,1 @@
+{"uuid":"96bd9582-b259-445a-89a0-d2c5b50e0b5e","name":"TestCases.TC56_DelinkTheLodgeOutwardBill","children":["23794dfb-7e3e-4b7f-bbf5-802a6b271d96"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1770718185375,"stop":1770718188223}],"afters":[],"start":1770718185335,"stop":1770718199248}

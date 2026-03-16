@@ -1,0 +1,14 @@
+[2026-02-10 14:11:52] ✅ Documentary Credit No: 2222121214
+[2026-02-10 14:11:52] ✅ Inquired Successfully – Import No: 2222121214
+[2026-02-10 14:11:52] ✅ AppData captured at inquiry time:
+[2026-02-10 14:11:52] docStatus = Clean
+[2026-02-10 14:11:52] LABELTEXT_BILLID = 2222121214
+[2026-02-10 14:11:52] boeAmt = 1000.00
+[2026-02-10 14:11:52] billCountry = 03
+[2026-02-10 14:11:52] billType = IBCUL
+[2026-02-10 14:11:52] billId = 2222121214
+[2026-02-10 14:11:52] carrierCode = 001
+[2026-02-10 14:11:52] LabelText = Inquired Successfully – Import No: 2222121214
+[2026-02-10 14:11:52] sAccName = RAM
+[2026-02-10 14:11:52] sAddr1 = OOTY
+[2026-02-10 14:11:52] invoiceAmt = 1000.00

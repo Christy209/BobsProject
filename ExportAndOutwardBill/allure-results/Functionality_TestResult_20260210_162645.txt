@@ -1,0 +1,123 @@
+? Test Case: TC49_LodgetheOutwardBill
+? PASSED:
+[2026-02-10 16:15:31] Bill ID - 2222121210 Lodged successfully.
+[2026-02-10 16:16:17] Bill ID - 2222121210 Lodged successfully.
+
+
+? Test Case: TC50_AcceptTheOutwardbillWhichIsLodge
+? PASSED:
+[2026-02-10 16:17:16] Bill ID - 2222121210 Accepted successfully.
+[2026-02-10 16:18:10] Bill ID - 2222121210 Accepted successfully.
+
+
+? Test Case: TC51_AmendTheOutwardBillWhichISAccepted
+? PASSED:
+[2026-02-10 16:19:07] Bill ID - 2222121210 Amended successfully.
+[2026-02-10 16:19:59] Bill ID - 2222121210 Amended successfully.
+
+
+? Test Case: TC52_FreeDeliveryOfOutwardBillWhichIsLodge
+? FAILED:
+[2026-02-10 16:21:33] ? Error: Page did not load properly after action.
+[2026-02-10 16:21:33] ? Assertion Failure: Test failed: Page did not load properly after action.
+? Reason: ? ? Assertion Failure: Test failed: Page did not load properly after action.
+
+
+
+? Screenshot:
+
+
+? Test Case: TC53_ModifyTheOutwardBillAccountWhichIsFreedelivered
+? PASSED:
+[2026-02-10 16:22:17] Bill ID - 2222121210 modified successfully.
+[2026-02-10 16:23:01] Bill ID - 2222121210 modified successfully.
+
+
+? Test Case: TC54_InquiretheExportbillWhichIsModified
+? PASSED:
+[2026-02-10 16:23:35] ? AppData captured at inquiry time:
+[2026-02-10 16:23:35] docStatus = Clean
+[2026-02-10 16:23:35] LABELTEXT_BILLID = 2222121210
+[2026-02-10 16:23:35] boeAmt = 1000.00
+[2026-02-10 16:23:35] billCountry = 03
+[2026-02-10 16:23:35] billType = IBCUL
+[2026-02-10 16:23:35] billId = 2222121210
+[2026-02-10 16:23:35] carrierCode = 001
+[2026-02-10 16:23:35] LabelText = Inquired Successfully – Import No: 2222121210
+[2026-02-10 16:23:35] sAccName = RAM
+[2026-02-10 16:23:35] sAddr1 = OOTY
+[2026-02-10 16:23:35] invoiceAmt = 1000.00
+
+
+? Test Case: TC55_CancellingTheAccountWhichIsModifiedExportBill
+? FAILED:
+[2026-02-10 16:24:50] ? EXCEPTION OCCURRED: Unable to switch to loginFrame after retries
+? Reason: ? ? EXCEPTION OCCURRED: Unable to switch to loginFrame after retries
+
+
+? Screenshot capture failed: class Utilities.TestReportListener cannot access a member of class TestCases.TC55_CancellingTheAccountWhichIsModifiedExportBill with modifiers "private"
+? Test Case: TC56_DelinkTheLodgeOutwardBill
+? FAILED:
+[2026-02-10 16:25:32] ? EXCEPTION OCCURRED: Expected condition failed: waiting for visibility of element located by By.id: menuSelect (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 144.0.3719.115, fedcm:accounts: true, goog:processID: 3476, ms:edgeOptions: {debuggerAddress: localhost:64490}, msedge: {msedgedriverVersion: 144.0.3719.115 (4ee501a4f64..., userDataDir: C:\Users\PRIYAR~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64490/devtoo..., se:cdpVersion: 144.0.3719.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 838115db1f66cd6f69a84c73834bb9f5
+? Reason: ? ? EXCEPTION OCCURRED: Expected condition failed: waiting for visibility of element located by By.id: menuSelect (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 144.0.3719.115, fedcm:accounts: true, goog:processID: 3476, ms:edgeOptions: {debuggerAddress: localhost:64490}, msedge: {msedgedriverVersion: 144.0.3719.115 (4ee501a4f64..., userDataDir: C:\Users\PRIYAR~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64490/devtoo..., se:cdpVersion: 144.0.3719.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 838115db1f66cd6f69a84c73834bb9f5
+
+
+? Screenshot capture failed: class Utilities.TestReportListener cannot access a member of class TestCases.TC56_DelinkTheLodgeOutwardBill with modifiers "private"
+? Test Case: TC57_ProtestTheExportBillWhichIsInquired
+? FAILED:
+[2026-02-10 16:26:04] ? EXCEPTION OCCURRED: no such element: Unable to locate element: {"method":"css selector","selector":"#usertxt"}
+  (Session info: MicrosoftEdge=144.0.3719.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [838115db1f66cd6f69a84c73834bb9f5, findElement {using=id, value=usertxt}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 144.0.3719.115, fedcm:accounts: true, goog:processID: 3476, ms:edgeOptions: {debuggerAddress: localhost:64490}, msedge: {msedgedriverVersion: 144.0.3719.115 (4ee501a4f64..., userDataDir: C:\Users\PRIYAR~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64490/devtoo..., se:cdpVersion: 144.0.3719.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 838115db1f66cd6f69a84c73834bb9f5
+? Reason: ? ? EXCEPTION OCCURRED: no such element: Unable to locate element: {"method":"css selector","selector":"#usertxt"}
+  (Session info: MicrosoftEdge=144.0.3719.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [838115db1f66cd6f69a84c73834bb9f5, findElement {using=id, value=usertxt}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 144.0.3719.115, fedcm:accounts: true, goog:processID: 3476, ms:edgeOptions: {debuggerAddress: localhost:64490}, msedge: {msedgedriverVersion: 144.0.3719.115 (4ee501a4f64..., userDataDir: C:\Users\PRIYAR~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64490/devtoo..., se:cdpVersion: 144.0.3719.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 838115db1f66cd6f69a84c73834bb9f5
+
+
+? Screenshot capture failed: class Utilities.TestReportListener cannot access a member of class TestCases.TC57_ProtestTheExportBillWhichIsInquired with modifiers "private"
+? Test Case: TC58_CloseTHeOutwardBillWhichIsLodge
+? FAILED:
+[2026-02-10 16:26:42] ? Exception Occurred: Expected condition failed: waiting for visibility of element located by By.id: menuSelect (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 144.0.3719.115, fedcm:accounts: true, goog:processID: 3476, ms:edgeOptions: {debuggerAddress: localhost:64490}, msedge: {msedgedriverVersion: 144.0.3719.115 (4ee501a4f64..., userDataDir: C:\Users\PRIYAR~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64490/devtoo..., se:cdpVersion: 144.0.3719.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 838115db1f66cd6f69a84c73834bb9f5
+? Reason: ? ? Exception Occurred: Expected condition failed: waiting for visibility of element located by By.id: menuSelect (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 144.0.3719.115, fedcm:accounts: true, goog:processID: 3476, ms:edgeOptions: {debuggerAddress: localhost:64490}, msedge: {msedgedriverVersion: 144.0.3719.115 (4ee501a4f64..., userDataDir: C:\Users\PRIYAR~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64490/devtoo..., se:cdpVersion: 144.0.3719.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 838115db1f66cd6f69a84c73834bb9f5
+
+
+============================================================
+? Suite Summary: Test
+
+===============================================
+Test
+Total tests run: 10, Passes: 5, Failures: 5, Skips: 0
+===============================================
+
+?? Total Duration: 12 min 02 sec

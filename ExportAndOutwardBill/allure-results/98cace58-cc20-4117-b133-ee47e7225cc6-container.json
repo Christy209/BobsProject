@@ -1,0 +1,1 @@
+{"uuid":"98cace58-cc20-4117-b133-ee47e7225cc6","name":"TestCases.TC49_LodgetheOutwardBill","children":["e0e0fb59-f83f-4890-86e3-1652bf63908c"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1770707435605,"stop":1770707438594}],"afters":[],"start":1770707435564,"stop":1770707479903}

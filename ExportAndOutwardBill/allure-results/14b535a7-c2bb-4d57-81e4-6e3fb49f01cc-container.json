@@ -1,0 +1,1 @@
+{"uuid":"14b535a7-c2bb-4d57-81e4-6e3fb49f01cc","name":"TestCases.TC50_AcceptTheOutwardbillWhichIsLodge","children":["c45ee1c3-101d-4a8d-9760-e6e2e6f62e2f"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1770707995575,"stop":1770707998937}],"afters":[],"start":1770707995514,"stop":1770708070360}

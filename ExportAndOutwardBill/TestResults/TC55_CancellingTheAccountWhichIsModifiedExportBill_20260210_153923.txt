@@ -1,0 +1,2 @@
+[2026-02-10 15:39:32] ❌ TEST FAILED | Expected E4221 but no error was thrown.
+[2026-02-10 15:39:32] ✅ EXPECTED BUSINESS ERROR RECEIVED – TEST PASSED : E4221 – Nothing to Cancel

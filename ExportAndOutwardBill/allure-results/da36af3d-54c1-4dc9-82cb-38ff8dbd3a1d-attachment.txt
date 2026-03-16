@@ -1,0 +1,2 @@
+[2026-02-10 14:10:32] ❌ Error: C22 - The previous process is not yet verified.
+[2026-02-10 14:10:32] ❌ Assertion Failure: Test failed: C22 - The previous process is not yet verified.
