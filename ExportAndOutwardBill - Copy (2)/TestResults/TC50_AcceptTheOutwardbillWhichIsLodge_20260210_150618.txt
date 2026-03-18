@@ -1,0 +1,2 @@
+[2026-02-10 15:06:38] ❌ Error: Navigation failure after action.
+[2026-02-10 15:06:38] ❌ Assertion Failure: Test failed: Navigation failure after action.
