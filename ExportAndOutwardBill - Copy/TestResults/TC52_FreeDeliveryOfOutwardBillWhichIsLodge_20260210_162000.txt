@@ -1,0 +1,2 @@
+[2026-02-10 16:21:33] ? Error: Page did not load properly after action.
+[2026-02-10 16:21:33] ? Assertion Failure: Test failed: Page did not load properly after action.

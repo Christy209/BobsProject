@@ -1,0 +1,12 @@
+[2026-02-10 15:39:03] ✅ AppData captured at inquiry time:
+[2026-02-10 15:39:03] docStatus = Clean
+[2026-02-10 15:39:03] LABELTEXT_BILLID = 2222121218
+[2026-02-10 15:39:03] boeAmt = 1000.00
+[2026-02-10 15:39:03] billCountry = 03
+[2026-02-10 15:39:03] billType = IBCUL
+[2026-02-10 15:39:03] billId = 2222121218
+[2026-02-10 15:39:03] carrierCode = 001
+[2026-02-10 15:39:03] LabelText = Inquired Successfully – Import No: 2222121218
+[2026-02-10 15:39:03] sAccName = RAM
+[2026-02-10 15:39:03] sAddr1 = OOTY
+[2026-02-10 15:39:03] invoiceAmt = 1000.00
