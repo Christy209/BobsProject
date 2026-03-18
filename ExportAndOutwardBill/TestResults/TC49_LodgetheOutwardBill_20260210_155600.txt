@@ -1,6 +1,0 @@
-[2026-02-10 15:56:20] ❌ Exception Occurred: Expected condition failed: waiting for visibility of element located by By.id: sAccName (tried for 8 second(s) with 500 milliseconds interval)
-Build info: version: '4.38.0', revision: '6b412e825c*'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
-Driver info: org.openqa.selenium.edge.EdgeDriver
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 144.0.3719.115, fedcm:accounts: true, goog:processID: 21412, ms:edgeOptions: {debuggerAddress: localhost:58558}, msedge: {msedgedriverVersion: 144.0.3719.115 (4ee501a4f64..., userDataDir: C:\Users\PRIYAR~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58558/devtoo..., se:cdpVersion: 144.0.3719.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: e4550bafe74624069f6d3f077754cb1b

@@ -1,2 +1,0 @@
-[2026-02-10 15:44:01] ❌ Error: Q71 - The documentary credit is expired.
-[2026-02-10 15:44:01] ❌ Assertion Failure: Test failed: Q71 - The documentary credit is expired.

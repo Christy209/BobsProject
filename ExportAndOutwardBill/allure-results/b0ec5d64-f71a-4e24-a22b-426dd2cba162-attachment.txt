@@ -1,2 +1,0 @@
-[2026-02-10 14:12:48] ❌ TEST FAILED | Expected E3494 but no error was thrown.
-[2026-02-10 14:12:48] ✅ EXPECTED BUSINESS ERROR RECEIVED – TEST PASSED : E3494 – The bill is not purchasable

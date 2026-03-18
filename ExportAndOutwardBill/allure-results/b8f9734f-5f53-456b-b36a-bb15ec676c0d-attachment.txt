@@ -1,2 +1,0 @@
-[2026-02-10 14:19:20] Bill ID - 2222121215 Accepted successfully.
-[2026-02-10 14:20:32] ? Error: Page did not load properly after action.

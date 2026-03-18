@@ -1,2 +1,0 @@
-[2026-02-20 15:15:16] ? Error: G69 - The bill is already lodged.
-[2026-02-20 15:15:16] ? Assertion Failure: Test failed: G69 - The bill is already lodged.

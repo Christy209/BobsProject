@@ -1,1 +1,0 @@
-{"uuid":"6c028fb9-2821-44bd-932f-8df44cd51f2e","name":"TestCases.TC58_CloseTHeOutwardBillWhichIsLodge","children":["661a9852-b62e-4ff4-9c29-f18f3e4f38bb"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1770712999483,"stop":1770712999506}],"afters":[],"start":1770712511417,"stop":1770713024967}
