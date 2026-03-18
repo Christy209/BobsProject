@@ -1,0 +1,16 @@
+[2026-03-11 17:08:00] ? Inward Bill No: 003B0502_2025
+[2026-03-11 17:08:00] ? Inquired Successfully – Import No: 003B0502_2025
+[2026-03-11 17:08:00] ? AppData captured at inquiry time:
+[2026-03-11 17:08:00] acceptDate_ui = 15-03-2025
+[2026-03-11 17:08:00] billType = IMDCBU
+[2026-03-11 17:08:00] shpmntDate_ui = 15-03-2025
+[2026-03-11 17:08:00] invoiceAmt = 1000.00
+[2026-03-11 17:08:00] docStatus = Clean
+[2026-03-11 17:08:00] LABELTEXT_BILLID = 003B0502_2025
+[2026-03-11 17:08:00] boeAmt = 1000.00
+[2026-03-11 17:08:00] billCountry = 03
+[2026-03-11 17:08:00] billId = 003B0502_2025
+[2026-03-11 17:08:00] billDate_ui = 15-03-2025
+[2026-03-11 17:08:00] carrierCode = 001
+[2026-03-11 17:08:00] LabelText = Inquired Successfully – Import No: 003B0502_2025
+[2026-03-11 17:08:00] otherBankRefNo = 124

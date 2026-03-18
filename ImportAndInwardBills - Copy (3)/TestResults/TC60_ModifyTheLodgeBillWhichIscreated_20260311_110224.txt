@@ -1,0 +1,2 @@
+[2026-03-11 11:03:52] ? Error: Tenor Details
+[2026-03-11 11:03:52] ? Assertion Failure: Test failed: Tenor Details

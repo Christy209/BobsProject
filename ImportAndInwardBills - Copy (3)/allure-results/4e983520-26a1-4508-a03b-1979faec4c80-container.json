@@ -1,0 +1,1 @@
+{"uuid":"4e983520-26a1-4508-a03b-1979faec4c80","name":"TestCases.TC60_ModifyTheLodgeBillWhichIscreated","children":["098b238d-03df-4a14-aade-668645b1147d"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1772689299948,"stop":1772689300349}],"afters":[],"start":1772689276154,"stop":1772689303226}

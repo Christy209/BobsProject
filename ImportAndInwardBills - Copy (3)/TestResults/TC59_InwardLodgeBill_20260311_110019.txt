@@ -1,0 +1,3 @@
+[2026-03-11 11:01:27] Bill ID - 003B0500_2025 Lodged successfully.
+[2026-03-11 11:02:13] ? Login Failed: User is already logged in.
+[2026-03-11 11:02:13] ? Assertion Failure: Finacle Login Error: User is already logged in.

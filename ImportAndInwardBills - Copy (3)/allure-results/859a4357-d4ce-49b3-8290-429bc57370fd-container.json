@@ -1,0 +1,1 @@
+{"uuid":"859a4357-d4ce-49b3-8290-429bc57370fd","name":"TestCases.TC64_InquireTheInwardBill","children":["bc4ea4fc-bbe8-4283-8254-b7cbeb121705"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1773207117003,"stop":1773207117221}],"afters":[],"start":1773207068454,"stop":1773207118792}
