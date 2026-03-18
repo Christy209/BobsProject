@@ -1,2 +1,0 @@
-[2026-03-11 17:08:52] ? Error: D89 - Bill has already been protested.
-[2026-03-11 17:08:52] ? Assertion Failure: Test failed: D89 - Bill has already been protested.

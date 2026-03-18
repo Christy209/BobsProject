@@ -1,7 +1,0 @@
-[2026-03-11 17:06:16] ? Exception Occurred: invalid session id
-Build info: version: '4.38.0', revision: '6b412e825c*'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
-Driver info: org.openqa.selenium.edge.EdgeDriver
-Command: [0028ae2d151eb733beb41a356becf8ad, get {url=https://bbssl19.bbssl.com:33333/fininfra/ui/SSOLogin.jsp}]
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 145.0.3800.97, fedcm:accounts: true, goog:processID: 12688, ms:edgeOptions: {debuggerAddress: localhost:61694}, msedge: {msedgedriverVersion: 145.0.3800.97 (f4c49d5241f1..., userDataDir: C:\Users\chris\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61694/devtoo..., se:cdpVersion: 145.0.3800.97, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 0028ae2d151eb733beb41a356becf8ad

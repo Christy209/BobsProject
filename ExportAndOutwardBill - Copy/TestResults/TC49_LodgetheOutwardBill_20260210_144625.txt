@@ -1,2 +1,0 @@
-[2026-02-10 14:46:37] ? Error: E4221 - Bill Tenor differs from the Documentary Credit Tenor
-[2026-02-10 14:46:37] ? Assertion Failure: Test failed: E4221 - Bill Tenor differs from the Documentary Credit Tenor

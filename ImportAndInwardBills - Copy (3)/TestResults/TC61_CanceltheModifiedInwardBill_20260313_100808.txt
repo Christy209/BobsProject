@@ -1,3 +1,0 @@
-[2026-03-13 10:09:27] Bill ID - 003B0502_2025 Previous operation cancelled successfully.
-[2026-03-13 10:10:18] ?? Error displayed: E4221 - [There is nothing to verify.]
-[2026-03-13 10:10:18] ? Expected error E4221 received after Cancel. Test PASSED.

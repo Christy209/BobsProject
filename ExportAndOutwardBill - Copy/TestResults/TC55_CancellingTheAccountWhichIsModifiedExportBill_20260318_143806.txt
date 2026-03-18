@@ -1,7 +1,0 @@
-[2026-03-18 14:38:07] ? EXCEPTION OCCURRED: invalid session id
-Build info: version: '4.38.0', revision: '6b412e825c*'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [4a868c07941364d64be7d6e0b0fe3961, switchToFrame {id=null}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.80, chrome: {chromedriverVersion: 146.0.7680.80 (f08938029c88..., userDataDir: C:\Users\chris\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56269}, goog:processID: 15956, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56269/devtoo..., se:cdpVersion: 146.0.7680.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 4a868c07941364d64be7d6e0b0fe3961
