@@ -1,0 +1,6 @@
+[2026-03-12 18:59:06] null
+[2026-03-12 18:59:36] ❌ Exception Occurred: Unable to find element with locator By.id: chkbalTransferFlg
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: driver.version: RemoteWebDriver

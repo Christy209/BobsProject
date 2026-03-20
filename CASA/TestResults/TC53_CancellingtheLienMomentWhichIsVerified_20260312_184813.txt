@@ -1,0 +1,2 @@
+[2026-03-12 18:48:55] ⚠️ Received Error: 711 - There is nothing to cancel.
+[2026-03-12 18:48:55] ✅ EXPECTED BUSINESS ERROR RECEIVED – TEST PASSED : 711 - There is nothing to cancel.

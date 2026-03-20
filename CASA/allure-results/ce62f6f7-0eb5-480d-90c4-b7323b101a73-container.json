@@ -1,0 +1,1 @@
+{"uuid":"ce62f6f7-0eb5-480d-90c4-b7323b101a73","name":"TestCases.TC11_InquireTheModifiedInventoryMoment","children":["099c8bca-b02f-4fb4-b49f-76b51f2f56e5"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1773400308029,"stop":1773400308573}],"afters":[],"start":1773399153737,"stop":1773402440370}
